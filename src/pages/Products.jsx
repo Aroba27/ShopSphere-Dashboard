@@ -2,7 +2,7 @@
 import React from "react";
 import ProductList from "../components/ProductList";
 import { DollarSign, ShoppingBag, Package, AlertTriangle } from "lucide-react";
-import Card from "../components/card";
+import Card from "../components/Card";
 
 const Products = ({ onDataLoaded }) => {
 

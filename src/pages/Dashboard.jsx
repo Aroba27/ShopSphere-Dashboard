@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../components/card";
+import Card from "../components/Card";
 import Chart from "../components/Chart";
 import { DollarSign, ShoppingCart, Users, TrendingUp } from "lucide-react";
 import Orders from "../components/Orders";

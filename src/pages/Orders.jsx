@@ -7,7 +7,7 @@ import {
   RotateCcw,
   CheckCircle,
 } from "lucide-react";
-import Card from "../components/card";
+import Card from "../components/Card";
 import OrderList from "../components/OrderList";
 import CreateOrderModal from "../components/CreateOrderModal";
 import { ExportToCSV } from "../utilis/CSVExport";
