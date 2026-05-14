@@ -1,0 +1,222 @@
+export const users =[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "email": "ayesha@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "orders": 8,
+    "totalSpent": 12000,
+    "status": "Active",
+    "role": "Customer",
+    "joinedDate": "2024-02-10"
+  },
+  {
+    "id": 2,
+    "name": "Ali Raza",
+    "email": "ali@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=2",
+    "orders": 3,
+    "totalSpent": 4500,
+    "status": "Blocked",
+    "role": "Customer",
+    "joinedDate": "2024-01-15"
+  },
+  {
+    "id": 3,
+    "name": "Sara Ahmed",
+    "email": "sara@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "orders": 15,
+    "totalSpent": 22000,
+    "status": "Active",
+    "role": "Admin",
+    "joinedDate": "2023-12-05"
+  },
+  {
+    "id": 4,
+    "name": "Usman Tariq",
+    "email": "usman@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=4",
+    "orders": 5,
+    "totalSpent": 8000,
+    "status": "Inactive",
+    "role": "Customer",
+    "joinedDate": "2024-03-01"
+  },
+  {
+    "id": 5,
+    "name": "Fatima Noor",
+    "email": "fatima@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "orders": 12,
+    "totalSpent": 18000,
+    "status": "Active",
+    "role": "Customer",
+    "joinedDate": "2024-02-20"
+  },
+  {
+    "id": 6,
+    "name": "Hassan Ali",
+    "email": "hassan@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=6",
+    "orders": 2,
+    "totalSpent": 3000,
+    "status": "Blocked",
+    "role": "Customer",
+    "joinedDate": "2024-01-10"
+  },
+  {
+    "id": 7,
+    "name": "Zainab Malik",
+    "email": "zainab@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "orders": 9,
+    "totalSpent": 14000,
+    "status": "Active",
+    "role": "Customer",
+    "joinedDate": "2024-03-12"
+  },
+  {
+    "id": 8,
+    "name": "Bilal Ahmed",
+    "email": "bilal@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=8",
+    "orders": 6,
+    "totalSpent": 9000,
+    "status": "Inactive",
+    "role": "Customer",
+    "joinedDate": "2024-02-05"
+  },
+  {
+    "id": 9,
+    "name": "Mariam Khan",
+    "email": "mariam@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "orders": 11,
+    "totalSpent": 16000,
+    "status": "Active",
+    "role": "Admin",
+    "joinedDate": "2023-11-25"
+  },
+  {
+    "id": 10,
+    "name": "Omar Farooq",
+    "email": "omar@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=10",
+    "orders": 4,
+    "totalSpent": 6000,
+    "status": "Blocked",
+    "role": "Customer",
+    "joinedDate": "2024-01-28"
+  },
+  {
+    "id": 11,
+    "name": "Hina Aslam",
+    "email": "hina@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=11",
+    "orders": 7,
+    "totalSpent": 10000,
+    "status": "Active",
+    "role": "Customer",
+    "joinedDate": "2024-03-08"
+  },
+  {
+    "id": 12,
+    "name": "Imran Shah",
+    "email": "imran@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "orders": 10,
+    "totalSpent": 15000,
+    "status": "Inactive",
+    "role": "Customer",
+    "joinedDate": "2024-02-14"
+  },
+  {
+    "id": 13,
+    "name": "Noor Fatima",
+    "email": "noor@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=13",
+    "orders": 13,
+    "totalSpent": 20000,
+    "status": "Active",
+    "role": "Customer",
+    "joinedDate": "2024-03-18"
+  },
+  {
+    "id": 14,
+    "name": "Saad Khan",
+    "email": "saad@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=14",
+    "orders": 1,
+    "totalSpent": 1500,
+    "status": "Blocked",
+    "role": "Customer",
+    "joinedDate": "2024-01-05"
+  },
+  {
+    "id": 15,
+    "name": "Areeba Sheikh",
+    "email": "areeba@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=15",
+    "orders": 14,
+    "totalSpent": 21000,
+    "status": "Active",
+    "role": "Admin",
+    "joinedDate": "2023-12-30"
+  },
+  {
+    "id": 16,
+    "name": "Hamza Ali",
+    "email": "hamza@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=16",
+    "orders": 5,
+    "totalSpent": 7500,
+    "status": "Inactive",
+    "role": "Customer",
+    "joinedDate": "2024-02-22"
+  },
+  {
+    "id": 17,
+    "name": "Iqra Khan",
+    "email": "iqra@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=17",
+    "orders": 9,
+    "totalSpent": 13000,
+    "status": "Active",
+    "role": "Customer",
+    "joinedDate": "2024-03-10"
+  },
+  {
+    "id": 18,
+    "name": "Danish Raza",
+    "email": "danish@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=18",
+    "orders": 2,
+    "totalSpent": 2800,
+    "status": "Blocked",
+    "role": "Customer",
+    "joinedDate": "2024-01-18"
+  },
+  {
+    "id": 19,
+    "name": "Mehwish Ali",
+    "email": "mehwish@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=19",
+    "orders": 6,
+    "totalSpent": 8500,
+    "status": "Active",
+    "role": "Customer",
+    "joinedDate": "2024-02-27"
+  },
+  {
+    "id": 20,
+    "name": "Tariq Mehmood",
+    "email": "tariq@gmail.com",
+    "avatar": "https://i.pravatar.cc/150?img=20",
+    "orders": 3,
+    "totalSpent": 4000,
+    "status": "Inactive",
+    "role": "Customer",
+    "joinedDate": "2024-01-12"
+  }
+]
